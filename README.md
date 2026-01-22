@@ -1,1 +1,1 @@
-Ce projet est un Escape Game immersif développé sous Unity avec le langage C#. Réalisé en équipe de quatre étudiants dans le cadre de mon parcours au Cégep, il représente l’aboutissement de deux années de spécialisation en programmation
+Ce projet est un Escape Game immersif développé sous Unity avec le langage C#. Réalisé en équipe de quatre étudiants dans le cadre de mon parcours au Cégep, il représente l’aboutissement de deux années de spécialisation en programmation. Realiser par Mathias Bergeron, Tristan Assali, Felix Nhamias
